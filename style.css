@@ -1,0 +1,28 @@
+
+@media (min-width: 768px) 
+{
+
+}
+  @media (any-hover: hover) {
+    h1:hover {
+      background: rgba(0, 0, 139, 0.932);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color:rgba(241, 219, 219, 0.774)
+    }
+  }
+#El_Puto_De_La_Gita{
+    height: 200px;
+    margin: 15px;
+    padding: 15px;
+}
+#Guitarrista{
+    height: 195px;
+    margin: 15px;
+    padding: 15px;
+
+}
+#tecladista{
+    height: 195;
+    margin: 15px;
+    padding: 15px;
+}
